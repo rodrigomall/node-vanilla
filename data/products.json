@@ -1,0 +1,16 @@
+[{
+  "id": "1",
+  "name": "Samsung Galaxy S21",
+  "description": "Galaxy S21 Ultra 5G is crafted so you don’t need to choose between video and photo. With a single tap, you can pull super-clear stills straight from high-resolution 8K video. Or if you’re looking to capture stunning photos, the 108MP camera feels like you’ve brought your own professional studio with you. Galaxy S21 Ultra 5G, designed to be epic in every way.",
+  "price": 999.99
+}, {
+  "id": "2",
+  "name": "iPhone 12 Pro Max",
+  "description": "iPhone 12 Pro Max. 5G to download huge files on the go and stream HDR video.¹ Larger 6.7-inch Super Retina XDR display.² Ceramic Shield with 4x better drop performance.³ Incredible low-light photography with the best Pro camera system on an iPhone, and 5x optical zoom range. Cinema-grade Dolby Vision video recording, editing, and playback. Night mode portraits and next-level AR experiences with the LiDAR Scanner. Powerful A14 Bionic chip. And new MagSafe accessories for easy attach and faster wireless charging.⁴ For infinitely spectacular possibilities.",
+  "price": 1200.99
+}, {
+  "id": "3",
+  "name": "Redmi 10",
+  "description": "The MediaTek Helio G88 makes its global debut with Redmi 10. The brand new processor produces clearer photos and provides an improved gaming experience.",
+  "price": 799.99
+}]
